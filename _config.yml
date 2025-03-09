@@ -1,13 +1,14 @@
-title: OSCP/eCPPTv3 exam notes
+title: OSCP/eCPPTv3 notes
 description: My OSCP and eCPPTv3 exam notes
 theme: just-the-docs
 
 url: https://krovs.github.io/testings/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Repository: https://krovs.github.io/testings
 
 color_scheme: purple
 
 back_to_top: true
 back_to_top_text: "Back to top"
+
