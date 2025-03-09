@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: OSCP and eCPPTv3 exam notes
+description: My OSCP and eCPPTv3 exam notes
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://krovs.github.io/testings/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+color_scheme: dark
